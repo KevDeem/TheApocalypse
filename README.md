@@ -12,23 +12,23 @@ Open Index.html in VScode
 Press go live in the bottom right hand corner
 
 ## How to play the game:
-Open the game by clicking index.html
-The UI of the game will show up on your browser
+#### Open the game by clicking index.html
+#### The UI of the game will show up on your browser
 
 ## Game Controls:
-Press W or up arrow to move forwards
-Press A or left arrow to move to the left
-Press S or bottom arrow to move backwards
-Press D or right arrow  to move to the right
-Use the mouse to rotate the camerax
+#### Press W or up arrow to move forwards
+#### Press A or left arrow to move to the left
+#### Press S or bottom arrow to move backwards
+#### Press D or right arrow  to move to the right
+#### Use the mouse to rotate the camerax
 
 ## Settings Menu:
-On the bottom right of the game screen, there will be five options that the player can customize to their liking. Those options are:
-Turning the clouds to yellow
-Turning the clouds to blue
-Turning the clouds to brown
-Turning the clouds  to gray
-Turning on fog mode
+#### On the bottom right of the game screen, there will be five options that the player can customize to their liking. Those options are:
+#### Turning the clouds to yellow
+#### Turning the clouds to blue
+#### Turning the clouds to brown
+#### Turning the clouds  to gray
+#### Turning on fog mode
 
 ## Video Demo Link:
 https://drive.google.com/file/d/1DL9CbAjPxmQ2LTZQfni51dAUs3tbBRtM/view?usp=sharing
